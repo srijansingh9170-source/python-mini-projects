@@ -1,2 +1,11 @@
-# python-mini-projects
-Collection of beginner-friendly Python mini projects including games, utilities, and automation scripts.
+Python Mini Projects:
+
+This repository contains beginner-friendly Python projects.
+
+Projects Included:
+- Calculator
+- Number Guessing Game
+- Password Generator
+
+Run a project:
+python filename.py
